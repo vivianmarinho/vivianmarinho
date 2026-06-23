@@ -1,8 +1,6 @@
 ### Olá! Eu sou a Vivian Marinho 👋
 
 
-- 🔭 Estudante
-- 🌱 Estudando CSS e HTML
 - 🔭 Analista de Sistemas
 - 🎓 Pós-graduanda em Ciência de Dados e Inteligência Artificial  
 - 😄 Pronouns: ela/dela
